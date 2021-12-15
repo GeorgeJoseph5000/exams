@@ -1,0 +1,113 @@
+.aside_exam{
+    width: 100%;
+    height: 300px;
+    background-color: whitesmoke;
+    overflow-y: scroll;
+    border-top: 1px solid black;
+    border-left: .5px solid black;
+    border-bottom: .5px solid black;
+    border-right: .5px solid black;
+}
+.aside_exam_link{
+    width: 100%;
+    padding: 5px;
+    padding-left: 10px;
+    color: dimgray;
+    background-color: whitesmoke;
+    border-bottom: .5px solid black;
+    text-align: left;
+    padding: 5;
+}
+.aside_exam_link_finished{
+    width: 100%;
+    padding: 5px;
+    padding-left: 10px;
+    color: dimgray;
+    background-color: lightblue;
+    border: 1px strip ;
+    border-bottom: .5px solid black;
+    border-left: 2px dashed black;
+    text-align: left;
+    padding: 5;
+}
+.aside_exam_preference{
+    width: 100%;
+    height: 300px;
+    background-color: whitesmoke;
+    border-top: .5px solid black;
+    border-right: 1px solid black;
+    border-bottom: .25px solid black;
+    border-left: 1px solid black;
+    
+}
+.btn_exam_choose{
+    width: 100%;
+    text-align: left;
+    padding: 5;
+    background-color: white;
+    border: 1px dashed gray;
+    font-size: 16px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3); 
+}
+.btn_exam_choosed{
+    width: 100%;
+    text-align: left;
+    padding: 5;
+    background-color: lightblue;
+    border: 1px solid gray;
+    font-size: 16px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3); 
+}
+.flagged{
+    background-color: cornflowerblue;
+    color: snow;
+    width: 100%;
+    height:25%;
+    border-bottom: .25px solid black;
+    margin-bottom: 1px;
+    padding: 5;
+    font-size: 20px;
+}
+.aside_exam_preference .norm{
+    width: 100%;
+    height:25%;
+    color: dimgray;
+    background-color: whitesmoke;
+    border-bottom: .25px solid black;
+    margin-bottom: 1px;
+    padding: 5;
+    font-size: 20px;
+
+}
+.solved_review_item{
+    border-bottom: 5px solid cornflowerblue;
+}
+.aside_exam_link_on{
+    width: 100%;
+    padding: 5px;
+    padding-left: 10px;
+    color: dimgray;
+    background-color: lightcyan;
+    border-bottom: .5px solid black;
+    text-align: left;
+    padding: 5;
+}
+footer{
+    opacity: 0.8;
+    text-align: center;
+    background: #000;
+    width: 100%;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    padding: 0px;
+}
+footer a{
+    color: rgba(255, 255, 255, 0.5);
+}
+footer a:visited{
+    color: #cccfc4;
+}
+footer a:hover{
+    color: #cccfc4;
+}
