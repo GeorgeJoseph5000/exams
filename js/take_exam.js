@@ -78,12 +78,12 @@ function sync(){
     }
 
 }
-function funcEnady() {
+function startSync() {
     
         setTimeout("sync();",1000);
     
 }
-funcEnady();
+startSync();
 
 
 
